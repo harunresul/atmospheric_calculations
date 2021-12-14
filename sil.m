@@ -1,0 +1,1 @@
+t = speed_of_sound_altitude(1000)
